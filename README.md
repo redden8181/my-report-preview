@@ -9,3 +9,5 @@ Enable Settings → Pages → Source: GitHub Actions, then run the `Deploy indep
 No personal financial data or backups are committed here. Import a backup in the running preview if desired.
 
 Preview sync: editorial workspace navigation and design iteration 1.
+
+Preview rebuild: complete composer and cross-period archive search iteration.
