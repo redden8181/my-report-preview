@@ -7,3 +7,5 @@ Preview URL (once GitHub Pages is enabled): https://redden8181.github.io/my-repo
 Enable Settings → Pages → Source: GitHub Actions, then run the `Deploy independent my-report design preview` workflow from Actions if it has not started automatically.
 
 No personal financial data or backups are committed here. Import a backup in the running preview if desired.
+
+Preview sync: editorial workspace navigation and design iteration 1.
